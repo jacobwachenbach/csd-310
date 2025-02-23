@@ -1,0 +1,4 @@
+USER=wineboss
+PASSWORD=wineisgood
+HOST=localhost
+DATABASE=bacchus
